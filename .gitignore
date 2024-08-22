@@ -1,0 +1,14 @@
+
+.DS_Store
+
+/keyboards/bar/3D
+/keyboards/bar/PCB
+/keyboards/bar/vial-qmk
+
+/keyboards/end45/3D
+/keyboards/end45/PCB
+/keyboards/end45/vial-qmk
+
+/keyboards/flight/3D
+/keyboards/flight/PCB
+/keyboards/flight/vial-qmk
